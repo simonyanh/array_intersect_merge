@@ -4,7 +4,7 @@
 #include <string>
 #include <vector>
 
-#include "../headers/my_array.hpp"
+#include "../headers/array_h.hpp"
 
 std::vector<std::string> split(const std::string&, const std::string& sep = " ");
 size_t insert(const std::string& prompt);
