@@ -1,11 +1,11 @@
-#include "../headers/utils.hpp"
+#include "../headers/utilities_h.hpp"
 
 #include <iostream>
 #include <limits>
 #include <string>
 #include <vector>
 
-#include "../headers/my_array.hpp"
+#include "../headers/array_h.hpp"
 
 std::vector<std::string> split(const std::string& input, const std::string& sep) {
     std::vector<std::string> chunks;
