@@ -1,4 +1,4 @@
-#include "../headers/my_array.hpp"
+#include "../headers/array_h.hpp"
 
 #include <cstring>
 #include <string>
