@@ -2,8 +2,8 @@
 #include <string>
 #include <vector>
 
-#include "../headers/my_array.hpp"
-#include "../headers/utils.hpp"
+#include "../headers/array_h.hpp"
+#include "../headers/utilities_h.hpp"
 
 int main() {
     size_t n = insert("Insert count: ");
